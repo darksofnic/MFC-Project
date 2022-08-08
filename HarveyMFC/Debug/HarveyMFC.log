@@ -1,0 +1,3 @@
+﻿  HarveyMFC.cpp
+e:\harveymfc\harveymfc\mylinklist.h(234): warning C4101: 'temp': unreferenced local variable
+  HarveyMFC.vcxproj -> E:\HarveyMFC\Debug\HarveyMFC.exe

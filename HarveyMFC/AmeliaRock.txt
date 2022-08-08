@@ -1,0 +1,12 @@
+A100              20          Hammer                  9.95
+A250              25          Saw                    13.95
+B400              50          Flat-Head Nails        11.99/Gross
+C888              50          Flat-Head Screwdriver   6.59
+A499              75          Pliers		      4.95
+C667              50          Drill                  22.95
+B875              70          Plummber's Wrench      11.90
+D547              60          Ladder 10 foot         70.44
+A910              85          Flashlight 10 inch      9.99
+B123              90          Assorted Buss Fuses     4.99
+
+                
